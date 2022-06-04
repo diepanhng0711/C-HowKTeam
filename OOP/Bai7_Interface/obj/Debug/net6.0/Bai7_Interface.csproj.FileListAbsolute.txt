@@ -1,0 +1,14 @@
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\bin\Debug\net6.0\Bai7_Interface.exe
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\bin\Debug\net6.0\Bai7_Interface.deps.json
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\bin\Debug\net6.0\Bai7_Interface.runtimeconfig.json
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\bin\Debug\net6.0\Bai7_Interface.dll
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\bin\Debug\net6.0\ref\Bai7_Interface.dll
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\bin\Debug\net6.0\Bai7_Interface.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\obj\Debug\net6.0\Bai7_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\obj\Debug\net6.0\Bai7_Interface.AssemblyInfoInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\obj\Debug\net6.0\Bai7_Interface.AssemblyInfo.cs
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\obj\Debug\net6.0\Bai7_Interface.csproj.CoreCompileInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\obj\Debug\net6.0\Bai7_Interface.dll
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\obj\Debug\net6.0\ref\Bai7_Interface.dll
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\obj\Debug\net6.0\Bai7_Interface.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai7_Interface\obj\Debug\net6.0\Bai7_Interface.genruntimeconfig.cache

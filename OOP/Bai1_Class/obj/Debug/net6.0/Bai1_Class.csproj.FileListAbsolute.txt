@@ -1,0 +1,15 @@
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\Bai1_Class.csproj.AssemblyReference.cache
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\Bai1_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\Bai1_Class.AssemblyInfoInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\Bai1_Class.AssemblyInfo.cs
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\Bai1_Class.csproj.CoreCompileInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\bin\Debug\net6.0\Bai1_Class.exe
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\bin\Debug\net6.0\Bai1_Class.deps.json
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\bin\Debug\net6.0\Bai1_Class.runtimeconfig.json
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\bin\Debug\net6.0\Bai1_Class.dll
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\bin\Debug\net6.0\ref\Bai1_Class.dll
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\bin\Debug\net6.0\Bai1_Class.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\Bai1_Class.dll
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\ref\Bai1_Class.dll
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\Bai1_Class.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai1_Class\obj\Debug\net6.0\Bai1_Class.genruntimeconfig.cache

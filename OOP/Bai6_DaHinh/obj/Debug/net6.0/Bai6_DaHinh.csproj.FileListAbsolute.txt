@@ -1,0 +1,14 @@
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\bin\Debug\net6.0\Bai6_DaHinh.exe
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\bin\Debug\net6.0\Bai6_DaHinh.deps.json
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\bin\Debug\net6.0\Bai6_DaHinh.runtimeconfig.json
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\bin\Debug\net6.0\Bai6_DaHinh.dll
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\bin\Debug\net6.0\ref\Bai6_DaHinh.dll
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\bin\Debug\net6.0\Bai6_DaHinh.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\obj\Debug\net6.0\Bai6_DaHinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\obj\Debug\net6.0\Bai6_DaHinh.AssemblyInfoInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\obj\Debug\net6.0\Bai6_DaHinh.AssemblyInfo.cs
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\obj\Debug\net6.0\Bai6_DaHinh.csproj.CoreCompileInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\obj\Debug\net6.0\Bai6_DaHinh.dll
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\obj\Debug\net6.0\ref\Bai6_DaHinh.dll
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\obj\Debug\net6.0\Bai6_DaHinh.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai6_DaHinh\obj\Debug\net6.0\Bai6_DaHinh.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\bin\Debug\net6.0\Bai5_KeThua.exe
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\bin\Debug\net6.0\Bai5_KeThua.deps.json
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\bin\Debug\net6.0\Bai5_KeThua.runtimeconfig.json
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\bin\Debug\net6.0\Bai5_KeThua.dll
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\bin\Debug\net6.0\ref\Bai5_KeThua.dll
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\bin\Debug\net6.0\Bai5_KeThua.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\Bai5_KeThua.csproj.AssemblyReference.cache
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\Bai5_KeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\Bai5_KeThua.AssemblyInfoInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\Bai5_KeThua.AssemblyInfo.cs
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\Bai5_KeThua.csproj.CoreCompileInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\Bai5_KeThua.dll
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\ref\Bai5_KeThua.dll
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\Bai5_KeThua.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai5_KeThua\obj\Debug\net6.0\Bai5_KeThua.genruntimeconfig.cache

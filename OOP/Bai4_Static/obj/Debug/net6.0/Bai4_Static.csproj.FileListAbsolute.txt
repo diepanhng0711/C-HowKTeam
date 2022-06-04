@@ -1,0 +1,15 @@
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\bin\Debug\net6.0\Bai4_Static.exe
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\bin\Debug\net6.0\Bai4_Static.deps.json
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\bin\Debug\net6.0\Bai4_Static.runtimeconfig.json
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\bin\Debug\net6.0\Bai4_Static.dll
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\bin\Debug\net6.0\ref\Bai4_Static.dll
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\bin\Debug\net6.0\Bai4_Static.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\Bai4_Static.csproj.AssemblyReference.cache
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\Bai4_Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\Bai4_Static.AssemblyInfoInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\Bai4_Static.AssemblyInfo.cs
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\Bai4_Static.csproj.CoreCompileInputs.cache
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\Bai4_Static.dll
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\ref\Bai4_Static.dll
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\Bai4_Static.pdb
+D:\Cybernetic\Hoc C#\OOP\Bai4_Static\obj\Debug\net6.0\Bai4_Static.genruntimeconfig.cache
